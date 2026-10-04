@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-matplotlib
+matplotlib>=3.10
 seaborn
 openpyxl
